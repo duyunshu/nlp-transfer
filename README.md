@@ -1,5 +1,5 @@
 # nlp-transfer
-Borealis AI Internship Project (Summer 2018)
+[Borealis AI](https://www.borealisai.com/en/) Internship Project (Summer 2018)
 
 This is Yunshu's Borealis AI internship project
 Emperical study on transfer learning for text classification**
@@ -54,8 +54,6 @@ Train with all config combinations using CNN model:
 Can also run RNN and FastText in similar way (.sh scripts)
 
 check FLAGS defined in train.py for detailed description of configurations
-
-check [presentation slides](https://bitbucket.org/rbcmllab/nlp-transfer/src/master/Transfer%20in%20NLP%20(Yunshu%20internship).pdf) for experiment design details
 
 ## Sentence similarity
 
